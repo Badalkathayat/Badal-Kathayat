@@ -1,49 +1,21 @@
-<h2 align="left">👋 Hi, I'm **Badal Kathayat a cybersecurity enthusiast and aspiring ethical hacker from Uttarakhand, India.  <br><br>🎯 **What I Do:**  <br>- 🛡️ Penetration Testing | Digital Forensics | Bug Hunting  <br>- 📊 Financial Fraud Detection using Splunk @ Commonwealth Bank   <br><br>🌐 **Projects & Interests:**  <br>- 🛠️ Developing pentesting tools and vulnerability scanners  <br>- 🔍 Exploring P4-level bugs and growing in bug bounty programs  <br>- 💻 Keen on Kali Linux and offensive security tools  <br><br>🌟 Let's connect, collaborate, and secure the digital world together!</h2>
+<h1 align="center">Hi 👋, I'm Badal Kathayat</h1>
+<h3 align="center">A passionate Penetration Taster from India</h3>
 
-###
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=badalkathayat&label=Profile%20views&color=0e75b6&style=flat" alt="badalkathayat" /> </p>
 
-<img align="right" height="150" src="https://media2.giphy.com/media/85y2gsgMQMByfpJzoN/giphy.webp?cid=ecf05e47e94k6v2o0fyjmknrtn4a3e5un06ooj985dz46uhu&ep=v1_gifs_search&rid=giphy.webp&ct=g"  />
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=badalkathayat" alt="badalkathayat" /></a> </p>
 
-###
+- 📫 How to reach me **hackerfromhills@gmail.com**
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" alt="raspberrypi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" alt="google logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" alt="debian logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
-</div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/badal-kathayat-hackerfromhills/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/badal-kathayat-hackerfromhills/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/bobykathayat11/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/bobykathayat11/" height="30" width="40" /></a>
+</p>
 
-###
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
-<div align="left">
-  <a href="https://www.instagram.com/bobykathayat11/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="hackerfromhills@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/badal-kathayat-hackerfromhills/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=badalkathayat&show_icons=true&locale=en&layout=compact" alt="badalkathayat" /></p>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/badalkathayat/badalkathayat/output/snake.svg" alt="Snake animation" />
-
-###
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=badalkathayat&show_icons=true&locale=en" alt="badalkathayat" /></p>
